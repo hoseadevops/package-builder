@@ -1,6 +1,6 @@
 {
-    "name": "${PHAR_NAME}.phar",
-    "sha1": "SHA1(package-builder.phar)= 5dc9de7506c07f9129205ce70b3713f9b06ffa9d",
+    "name": "package-builder.phar",
+    "sha1": "c06ba82e991fc6809dae9b70ce3e6d3ee12374ec",
     "url": "http://overtrue.github.io/package-builder/downloads/package-builder-0.0.1.phar",
     "version": "0.0.1"
 }
