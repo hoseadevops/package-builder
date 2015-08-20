@@ -1,6 +1,8 @@
-{
-    "name": "package-builder.phar",
-    "sha1": "ea6fce959b4cd16197742d402fac201499469093",
-    "url": "http://overtrue.github.io/package-builder/downloads/package-builder-0.0.2.phar",
-    "version": "0.0.2"
-}
+[
+    {
+        "name": "package-builder.phar",
+        "sha1": "be77116006ec697e8caf734c59a31d0f4ed531cb",
+        "url": "http://overtrue.github.io/package-builder/downloads/package-builder-0.0.3.phar",
+        "version": "0.0.3"
+    }
+]
