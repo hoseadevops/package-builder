@@ -18,7 +18,7 @@ namespace
         }
     );
 
-    echo "Box Installer$n";
+    echo "Package Builder Installer$n";
     echo "=============$n$n";
 
     echo "Environment Check$n";
